@@ -1,0 +1,17 @@
+Powershell: 
+    python -m venv venv
+    .\venv\Scripts\activate
+    pip install -r requirements.txt
+    nastavi prave poti do datotek, vhodna, izhodna
+    python main.py
+    deactivate
+
+Git Bash: 
+    python -m venv venv
+    source venv/Scripts/activate
+    pip install -r requirements.txt
+    nastavi prave poti do datotek, vhodna, izhodna
+    python main.py
+    deactivate
+
+
